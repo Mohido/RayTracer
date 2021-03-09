@@ -12,4 +12,5 @@ This is a 3d renderer Software using Raytracing.
 ![M low resolution](https://user-images.githubusercontent.com/48254077/110088791-977bbc80-7d95-11eb-97a7-14bb4afeeb91.png)
 
 
-
+# Notes:
+1) No Bias is added to the doubles, thus leads to some incorrect calculations when the objects become a bit further in the scene from the camera.
