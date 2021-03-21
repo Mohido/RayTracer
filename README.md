@@ -14,3 +14,4 @@ This is a 3d renderer Software using Raytracing.
 
 # Notes:
 1) No Bias is added to the doubles, thus leads to some incorrect calculations when the objects become a bit further in the scene from the camera.
+2) Aliasing is not added which makes the objects edges looks rigid (as if you are using win32 GDI rendering ;\).
